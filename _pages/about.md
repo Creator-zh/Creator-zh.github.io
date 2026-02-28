@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## ⭐ About me
 My name is Ziheng Zhao.I'm a sophomore from the [School of Statistics](http://stat.ruc.edu.cn/) in Renmin University of China.I major in **applied economics and data science**.Now I'm fortunate to be supervised by [Prof.Hongteng Xu](https://hongtengxu.github.io/)
 
