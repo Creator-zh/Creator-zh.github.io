@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Statistics, Renmin University of China, Currently
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Currently: Visiting student
+  * GSAI in Renmin University of China
+  * Project(Currently): Heterogeneous model merging 
+  * Supervisor: Professor Hongteng Xu
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python，c++
+* Pytorch
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Proficient in using integrated tools such as cursor, with the ability to complete projects comprehensively
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Projects
+=====
+* UC Berkeley CS61A · Structure and Interpretation of Computer Programs
+* Stanford CS229 · Machine Learning
+* Stanford CS224n · Natural Language Processing with Deep Learning
+* Stanford CS336 · Language Modeling from Scratch (Currently)
+* Westlake University · Mathematical Principles of Reinforcement Learning
+
