@@ -23,19 +23,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "头像.png"
+  avatar           : "profile.png"
   name             : "Ziheng Zhao"
   pronouns         : # example: "she/her"  
   bio              : "I'm a sophomore in the School of Statistics,Renmin University of China."
   location         : "Beijing, China"
   employer         : "Renmin University of China"
-  uri              : https://www.ruc.edu.cn/ # URL
+  uri              :  # URL
   email            : "zhao.zhbeijing@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
