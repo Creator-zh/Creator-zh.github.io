@@ -15,25 +15,26 @@ Education
 
 Work experience
 ======
-* Currently: Visiting student
-  * GSAI in Renmin University of China
-  * Project(Currently): Heterogeneous model merging 
-  * Supervisor: Professor Hongteng Xu
+* Current: intern in GSAI in Renmin University of China
+  * Project: Heterogeneous model merging 
+  * Supervisor: [Prof. Hongteng Xu](https://hongtengxu.github.io/)
   
 Skills
 ======
-* Python，c++
-* Pytorch
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Python
+  * Data processing packages including Numpy, Pandas
+  * Proficient in PyTorch, Scikit-learn
+* C++
+* LaTeX
 * Proficient in using integrated tools such as cursor, with the ability to complete projects comprehensively
+* Have basic knowledge of front-end technologies including HTML, CSS and JavaScript.
 
 Projects
 =====
 * UC Berkeley CS61A · Structure and Interpretation of Computer Programs
+* UC Berkeley Data100: Principles and Techniques of Data Science
 * Stanford CS229 · Machine Learning
 * Stanford CS224n · Natural Language Processing with Deep Learning
-* Stanford CS336 · Language Modeling from Scratch (Currently)
-* Westlake University · Mathematical Principles of Reinforcement Learning
+* Stanford CS336 · Language Modeling from Scratch (Current)
+* Westlake University · Mathematical Principles of Reinforcement Learning 
 
