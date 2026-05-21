@@ -1,41 +1,91 @@
 {
   "basics": {
     "name": "Ziheng Zhao",
-    "email": "Zhaozh@ruc.edu.cn",
+    "email": "zhao.zhbeijing@gmail.com",
     "phone": "",
-    "website": "https://Creator-zh.github.io",
-    "summary": "Currently learning at Renmin University",
+    "website": "https://creator-zh.github.io",
+    "summary": "Undergraduate student in Applied Economics and Data Science at Renmin University of China.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
     },
     "profiles": [
       {
         "network": "GitHub",
         "username": "Creator-zh",
-        "url": "https://github.com/Creator-zh"
+        "url": "https://github.com/Creator-zh/Creator-zh.github.io#"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "GSAI, Renmin University of China",
+      "position": "Research Intern",
+      "startDate": "2025-12",
+      "endDate": "2026-06",
+      "summary": "Conducting research on heterogeneous model merging under the supervision of Prof. Hongteng Xu.",
+      "highlights": [
+        "Exploring model architecture design and interpretability in large language models.",
+        "Investigating AI for Science use cases via large-model methods."
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Renmin University of China",
-      "area": "B.S in Applied economics and Data science",
-      "studyType": "",
+      "area": "Applied Economics and Data Science",
+      "studyType": "B.S.",
       "startDate": "2024",
       "endDate": "2028",
       "gpa": 3.80,
       "courses": []
     }
   ],
-  "skills": [Python, Pytorch],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C++", "SQL"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["PyTorch", "scikit-learn", "NumPy", "Pandas"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["LaTeX", "Cursor", "HTML", "CSS", "JavaScript"]
+    }
+  ],
   "languages": [],
-  "interests": [Model architecture design, LLM's interpretability,and its applications for ai4s],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Artificial General Intelligence",
+        "Model architecture design",
+        "LLM interpretability",
+        "AI for Science",
+        "Heterogeneous model merging"
+      ]
+    }
+  ],
   "references": [],
+  "awards": [
+    {
+      "title": "Provincial First Prize, China Undergraduate Mathematical Contest in Modeling",
+      "date": "",
+      "awarder": "CUMCM",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Mention, Mathematical Contest in Modeling (MCM/ICM)",
+      "date": "",
+      "awarder": "COMAP",
+      "summary": ""
+    }
+  ],
   "publications": [],
   "presentations": [],
   "teaching": [],
