@@ -6,11 +6,15 @@ author_profile: true
 ---
 
 ## About Me
-I am **Ziheng Zhao**, an undergraduate student in the [School of Statistics](http://stat.ruc.edu.cn/) at Renmin University of China, majoring in **Applied Economics and Data Science**.
+I am **Ziheng Zhao**, an undergraduate student in the [School of Statistics](http://stat.ruc.edu.cn/) at Renmin University of China, majoring in **Applied Economics and Data Science** (GPA: **3.79/4.00**, rank **20/178**).
 
 I am currently supervised by [Prof. Hongteng Xu](https://hongtengxu.github.io/) in GSAI. My main research interests are in **Artificial General Intelligence**, with a focus on model architecture design, LLM interpretability, and AI for Science. I am currently working on **heterogeneous model merging**.
 
+## Economics Background
+I have training in applied economics and am especially interested in **game theory** and **economic growth theory**, connecting economic theory with data-driven and AI methods.
+
 ## Research Interests
+- Game theory and economic growth theory
 - Model architecture design
 - LLM interpretability
 - AI for Science (AI4S)

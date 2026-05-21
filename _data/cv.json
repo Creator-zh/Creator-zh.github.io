@@ -40,7 +40,8 @@
       "studyType": "B.S.",
       "startDate": "2024",
       "endDate": "2028",
-      "gpa": 3.80,
+      "gpa": "3.79/4.00",
+      "summary": "Class rank: 20/178",
       "courses": []
     }
   ],
@@ -63,6 +64,9 @@
     {
       "name": "Research",
       "keywords": [
+        "Game theory",
+        "Economic growth theory",
+        "Applied economics",
         "Artificial General Intelligence",
         "Model architecture design",
         "LLM interpretability",
