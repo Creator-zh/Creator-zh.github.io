@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Creator-zh"
+site_theme               : "scholar" # Custom editorial theme for this academic site
+title                    : "Ziheng Zhao"
 title_separator          : "-"
 name                     : &name "Ziheng Zhao"
-description              : &description "Ziheng Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Research in artificial intelligence, model merging, and computational economics by Ziheng Zhao."
 url                      : https://Creator-zh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Ziheng Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a sophomore in the School of Statistics,Renmin University of China."
+  bio              : "Undergraduate researcher in statistics, artificial intelligence, and economics."
   location         : "Beijing, China"
   employer         : "Renmin University of China"
-  uri              : "https://github.com/Creator-zh/Creator-zh.github.io#" # URL
+  uri              : "https://Creator-zh.github.io" # URL
   email            : "zhao.zhbeijing@gmail.com" 
 
   # Academic websites
@@ -143,8 +143,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/og-card.png"
+og_description           : "Ziheng Zhao — Artificial Intelligence, Model Merging, and Computational Economics."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

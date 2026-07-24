@@ -11,14 +11,11 @@ main:
   - title: "About"
     url: /
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/
 
   - title: "Blog"
     url: /year-archive/
+
+  - title: "CV"
+    url: /cv/

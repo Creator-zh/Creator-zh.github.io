@@ -1,10 +1,29 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
-author_profile: true
+author_profile: false
+body_class: research-page
 ---
 
+<div class="research-page__intro">
+  <p class="home-eyebrow">Learning systems · Scientific discovery</p>
+  <p>My research asks how models with different structures and capabilities can exchange knowledge—and how understanding that process can make AI systems more reliable, interpretable, and useful for science.</p>
+</div>
+
+<section class="research-page__project" aria-labelledby="current-project">
+  <p class="home-eyebrow">Current project</p>
+  <h2 id="current-project">Heterogeneous model merging</h2>
+  <p>Most model-merging methods assume that the models being combined share the same architecture. I am exploring the harder setting: transferring and integrating capabilities across heterogeneous models while preserving what each model does well.</p>
+  <div class="research-page__questions">
+    <div><span>Question 01</span><p>Which representations remain compatible across different architectures?</p></div>
+    <div><span>Question 02</span><p>How can we measure successful knowledge transfer beyond aggregate accuracy?</p></div>
+    <div><span>Question 03</span><p>What does merging reveal about where models store reusable capabilities?</p></div>
+  </div>
+</section>
+
+<div class="research-page__publications">
+<p class="home-eyebrow">Publications &amp; preprints</p>
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -12,7 +31,10 @@ author_profile: true
 {% include base_path %}
 
 {% if site.publications.size == 0 %}
-<p><em>Coming soon.</em></p>
+<div class="research-page__empty">
+  <p>Selected papers and preprints will be listed here as current projects reach public release.</p>
+  <a href="mailto:{{ site.author.email }}">Contact me about ongoing work <span aria-hidden="true">→</span></a>
+</div>
 {% else %}
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
@@ -35,6 +57,7 @@ author_profile: true
   {% endfor %}
 {% endif %}
 {% endif %}
+</div>
 
 
 
