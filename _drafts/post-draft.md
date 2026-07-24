@@ -1,12 +1,12 @@
 ---
-layout: single
+layout: post
 title: "A clear, specific title"
-excerpt: "A one-sentence summary that will appear in the blog archive and search previews."
-categories:
-  - Research Notes
-tags:
-  - model merging
-  - machine learning
+date: 2026-01-01 12:00:00
+description: A one-sentence summary for the blog archive and social previews.
+tags: model-merging machine-learning
+categories: research-notes
+featured: false
+giscus_comments: false
 ---
 
 Open with the question, observation, or result that motivated this note.
@@ -17,7 +17,7 @@ Explain the relevant background and define notation before using it.
 
 ## Main idea
 
-State the core argument or method. Keep paragraphs short and use equations, figures, or code only when they make the idea clearer.
+State the core argument or method. Use equations, figures, or code only when they make the idea clearer.
 
 ## Takeaways
 
@@ -27,4 +27,4 @@ State the core argument or method. Keep paragraphs short and use equations, figu
 
 ## References
 
-1. Author. “Paper title.” *Venue*, year.
+1. Author. “Paper title.” _Venue_, year.

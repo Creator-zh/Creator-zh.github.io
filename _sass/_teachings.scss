@@ -1,0 +1,77 @@
+/*****************************
+ * Teachings/Courses styles
+ *****************************/
+
+.courses {
+  margin-top: 2rem;
+}
+
+.year {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.625rem;
+}
+
+.course-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+}
+
+.course-item {
+  border: 1px solid var(--global-divider-color);
+  border-radius: var(--radius-md);
+  padding: 15px;
+  background-color: var(--global-bg-color);
+  transition: transform var(--transition-base);
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+  }
+}
+
+.course-title {
+  margin-top: 0;
+  margin-bottom: 0.625rem;
+}
+
+.course-meta {
+  font-size: var(--text-sm);
+  color: var(--global-text-color-light);
+  margin-bottom: 0.625rem;
+}
+
+.course-term,
+.course-instructor {
+  margin-right: 1rem;
+}
+
+.course-description {
+  font-size: var(--text-sm);
+  margin-bottom: 1rem;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.course-info {
+  margin-bottom: 2rem;
+}
+
+.course-schedule {
+  margin-bottom: 2rem;
+}
+
+.schedule-description {
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.schedule-materials {
+  padding-left: 18px;
+  margin-bottom: 0;
+}

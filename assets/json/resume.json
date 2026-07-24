@@ -1,0 +1,65 @@
+{
+  "basics": {
+    "name": "Ziheng Zhao",
+    "label": "Undergraduate Researcher",
+    "email": "zhao.zhbeijing@gmail.com",
+    "url": "https://Creator-zh.github.io",
+    "summary": "Undergraduate student at Renmin University of China working on heterogeneous model merging, LLM interpretability, and AI for Science.",
+    "location": {
+      "city": "Beijing",
+      "countryCode": "CN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Creator-zh",
+        "url": "https://github.com/Creator-zh"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Renmin University of China",
+      "area": "Applied Economics and Data Science",
+      "studyType": "B.Sc. candidate"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Provincial First Prize",
+      "awarder": "China Undergraduate Mathematical Contest in Modeling"
+    },
+    {
+      "title": "Honorable Mention",
+      "awarder": "Mathematical Contest in Modeling"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C++", "SQL"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["PyTorch", "scikit-learn", "NumPy", "Pandas"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Model merging",
+        "LLM interpretability",
+        "AI for Science",
+        "Computational economics"
+      ]
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "references": []
+}

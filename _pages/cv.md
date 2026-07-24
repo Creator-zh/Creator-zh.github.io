@@ -1,17 +1,13 @@
 ---
-layout: single
-title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: CV
+nav: true
+published: true
+nav_order: 5
+cv_format: rendercv # options: rendercv, jsonresume
+description: Academic CV for Ziheng Zhao.
+cv_pdf: /assets/pdf/ziheng-zhao-cv.pdf
+toc:
+  sidebar: left
 ---
-
-{% include base_path %}
-
-You can view and download my current academic CV below.
-
-- **PDF download**: [`Ziheng-Zhao-CV.pdf`]({{ base_path }}/files/cv/ziheng-zhao-cv.pdf)
-
-<embed src="{{ base_path }}/files/cv/ziheng-zhao-cv.pdf" type="application/pdf" width="100%" height="900px" />
-

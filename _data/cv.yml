@@ -1,0 +1,37 @@
+cv:
+  name: Ziheng Zhao
+  label: Undergraduate Researcher
+  location: Beijing, China
+  email: zhao.zhbeijing@gmail.com
+  website: https://Creator-zh.github.io
+  summary: Undergraduate student in Applied Economics and Data Science at Renmin University of China, working on heterogeneous model merging, LLM interpretability, and AI for Science.
+
+  sections:
+    Education:
+      - institution: Renmin University of China
+        area: Applied Economics and Data Science
+        degree: B.Sc. candidate
+        location: Beijing, China
+        highlights:
+          - "GPA: 3.79 / 4.00"
+          - "Rank: 20 / 178"
+
+    Research Interests:
+      - bullet: Heterogeneous model merging
+      - bullet: Model architecture design and LLM interpretability
+      - bullet: AI for Science
+      - bullet: Game theory and economic growth
+
+    Awards:
+      - title: Provincial First Prize
+        organization: China Undergraduate Mathematical Contest in Modeling
+      - title: Honorable Mention
+        organization: Mathematical Contest in Modeling
+
+    Skills:
+      - label: Programming
+        details: Python, C++, SQL
+      - label: Machine Learning
+        details: PyTorch, scikit-learn, NumPy, Pandas
+      - label: Tools
+        details: LaTeX, Git, HTML/CSS/JavaScript
