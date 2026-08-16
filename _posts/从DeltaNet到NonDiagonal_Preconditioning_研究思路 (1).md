@@ -1,3 +1,15 @@
+---
+layout: post
+title: "从 DeltaNet 到 Non-Diagonal Preconditioning：我们为什么开始关心 Key 的相关性"
+date: 2026-08-16 12:00:00
+permalink: /blog/2026/deltanet-nondiagonal-preconditioning/
+description: "一份关于 DeltaNet、预条件化、Key 相关性与低秩子空间 U 的阶段性研究笔记。"
+tags: [DeltaNet, preconditioning, research]
+categories: [research-notes]
+featured: false
+giscus_comments: false
+---
+
 # 从 DeltaNet 到 Non-Diagonal Preconditioning：我们为什么开始关心 Key 的相关性
 
 > 这是一份阶段性研究笔记。目标不是直接给出最终方法，而是把问题推到一个足够清楚的位置：  
